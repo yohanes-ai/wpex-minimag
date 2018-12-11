@@ -1,3 +1,3 @@
-# WPEX Starter Theme
+# WPEX Minimag Theme
 
-It's time to go back to the basics.
+This template are customized for project #6O5GQHMV
